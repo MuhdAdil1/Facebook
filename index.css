@@ -1,0 +1,153 @@
+.header{
+    width: 100%;
+    height: 85px;
+    background: #365899;
+    float: left;
+   
+}
+body{
+    margin: 0;
+    font-family:Arial, Helvetica, Helvetica Neue sans-serif;
+}
+.logo-label{
+    font-weight: bold;
+    color: #fff;
+    font-size: 35px;
+    font-family:Arial, Helvetica, Helvetica Neue sans-serif;
+    margin-left: 170px;
+    text-decoration: none;
+    
+}
+.logo{
+    width: 50%;
+    padding-top: 34px;
+    float: left;
+}
+.login{
+    float: left;
+   
+}
+.login-btn{
+    color: #fff;
+    background-color: #4367af;
+    border: #4267b2;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.login-label{
+    font-size: 13px;
+    color: #fff;
+}
+.login-control{
+    margin-top: 15px;
+    margin-left: 50px;
+}
+.forgot{
+    color: rgb(202, 201, 201);
+    font-size: 13px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.login-btn:hover{
+    background: rgb(41, 82, 229);
+}
+.body{
+    width: 100%;
+    height: 780px;
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(231,229,246,1) 0%);
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 115px;
+    padding-top: 59px;
+}
+.right-section{
+    width: 42%;
+    float: left;
+    padding-top: 36px;
+}
+.img{
+    width: 590px;
+}
+.para{
+    font-weight: bold;
+    font-size: 27px;
+    color: #365899;
+}
+.one{
+    height: 27px;
+    width: 200px;
+    border-radius: 6px;
+    border-color: #fff;
+    font-size: 19px;
+}
+.two{
+    height: 27px;
+    width: 412px;
+    border-radius: 6px;
+    border-color: #fff;
+    margin-top: 19px;
+    font-size: 19px;
+}
+.head{
+    font-size: 41px;
+}
+.para1{
+    font-size: 18px;
+}
+.para2{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(131, 124, 124)
+}
+.day{
+    height: 26px;
+    border-radius: 7px;
+    border: solid 2px;
+    border: #fff;
+    cursor: pointer;
+    
+}
+.month{
+    height: 26px;
+    border-radius: 7px;
+    margin-left: 2px;
+    border: solid 2px;
+    border: #fff;
+    cursor: pointer;
+}
+.gender{
+    float: left;
+    width: 100%;
+    height: 193px;
+}
+.para3{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(131, 124, 124)
+}
+.radio{
+    font-size: 19px;
+    margin-top: -20px;
+}
+.para4{
+    font-size: 14px;
+    color: rgb(131, 124, 124);
+}
+.signup-btn{
+    padding: 18px 82px;
+    
+    margin-top: 25px;
+    border-radius: 14px;
+    border-color: #fff;
+    background: rgb(14, 165, 14);
+    font-size: 19px;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+}
+.signup-btn:hover{
+    background: green;
+}
+
